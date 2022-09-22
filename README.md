@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 My name is *Karol* :D 
-![now here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkaA4eUYSziN3wd7kTZbx97LEzHmGcooZag&usqp=CAU)
+![now here](https://scontent-bog1-1.xx.fbcdn.net/v/t1.6435-9/200182090_10224041582643973_588900370013158375_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=Wy7zAc69iVoAX9zO_7f&_nc_ht=scontent-bog1-1.xx&oh=00_AT8dajZiowoZlRWEF1MFC6YUA0WgxCYcwI191F8AGIP5nA&oe=6350CF37)
 
-<!--
-**Karolart/karolart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # I am a:
 student of Systems Engineering and
