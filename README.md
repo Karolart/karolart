@@ -4,7 +4,7 @@ My name is *Karol* :D
 ![now here](## Hi there 👋
 
 My name is *Karol* :D 
-![now here]([https://scontent-bog1-1.xx.fbcdn.net/v/t1.6435-9/200182090_10224041582643973_588900370013158375_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=Wy7zAc69iVoAX9zO_7f&_nc_ht=scontent-bog1-1.xx&oh=00_AT8dajZiowoZlRWEF1MFC6YUA0WgxCYcwI191F8AGIP5nA&oe=6350CF37](https://drive.google.com/file/d/1KEUY7LBaH6UekwbYj0-VLOSwd4blRPdz/view?usp=sharing))
+![now here](https://drive.google.com/file/d/1KEUY7LBaH6UekwbYj0-VLOSwd4blRPdz/view?usp=sharing)
 
 
 # I am a:
