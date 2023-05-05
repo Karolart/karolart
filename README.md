@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is  
+## My name is  
 
-## $\textcolor{yellow}{:hibiscus:/@@Karol@@/:hibiscus: $
+:hibiscus: ** Karol ** :hibiscus:
 ______________________________________
 ![imgBilly](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)  
 ______________________________________
