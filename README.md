@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is *Karol* :D  
-![This is an image](<iframe src="https://assets.pinterest.com/ext/embed.html?id=288300813661327773" height="359" width="345" frameborder="0" scrolling="no" ></iframe>)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=288300813661327773" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
 # I am a:
 student of Systems Engineering and
 junior programmer in training,
