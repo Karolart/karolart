@@ -1,8 +1,10 @@
-#Hi there 👋
+# Hi there 👋
 
 My name is  
-##Karol :D  
-![imgBilly](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
+## Karol :D  
+_____________________________________________________________________________________  
+![imgBilly](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)  
+_____________________________________________________________________________________  
 student of Systems Engineering and
 junior programmer in training,
 Along this path I have learned to interact with
