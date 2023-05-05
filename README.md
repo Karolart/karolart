@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is *Karol* :D  
-![This is an image](https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/313058166_10226867230843412_78944695854621884_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEYCXmpSsN134ryMTv5gV0v-nEX0vl9puH6cRfS-X2m4ReFbvSWlGr1kJ0t88NC7As&_nc_ohc=ywq9s0XB4_sAX8fGDtu&_nc_ht=scontent-bog1-1.xx&oh=00_AfARf2ELBql0ZAz3qBX0YRmejkpPpkutdSVnLx5saclcNQ&oe=63DC17A1)
+![This is an image]([https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/313058166_10226867230843412_78944695854621884_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEYCXmpSsN134ryMTv5gV0v-nEX0vl9puH6cRfS-X2m4ReFbvSWlGr1kJ0t88NC7As&_nc_ohc=ywq9s0XB4_sAX8fGDtu&_nc_ht=scontent-bog1-1.xx&oh=00_AfARf2ELBql0ZAz3qBX0YRmejkpPpkutdSVnLx5saclcNQ&oe=63DC17A1](https://drive.google.com/file/d/1I5g0qN7xik79jPKo2q2D9Qi1FsekBUYT/view?usp=share_link))
 # I am a:
 student of Systems Engineering and
 junior programmer in training,
