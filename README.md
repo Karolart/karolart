@@ -1,6 +1,7 @@
-## Hi there 👋
+#Hi there 👋
 
- My name is # Karol* :D  
+My name is  
+##Karol :D  
 ![imgBilly](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
 student of Systems Engineering and
 junior programmer in training,
