@@ -1,9 +1,8 @@
 # Hi there 👋
 
 My name is  
-:hibiscus: @@Karol@@ :hibiscus: 
 
-Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github 
+## $\textcolor{yellow}{:hibiscus:/@@Karol@@/:hibiscus: $
 ______________________________________
 ![imgBilly](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)  
 ______________________________________
