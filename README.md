@@ -9,3 +9,5 @@ _____________________________________
 ## junior programmer always in training  :ant:  
 ## I have been trying to improve my skills and continue to grow up as a professional woman :bug: :butterfly:  
 ## Bring the best from my female perspective to the exciting world of software :mage_woman:
+
+:link: LinkedIn: www.linkedin.com/in/karolart  
