@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is  
-@@ :hibiscus: Karol :hibiscus: (and bold)@@
+:hibiscus: @@ Karol @@ :hibiscus: 
 
 Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github 
 ______________________________________
