@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is *Karol* :D  
-![This is an image](https://drive.google.com/drive/u/0/folders/1bFuuapU0G2N2whh-ADJTJsqV-kgPqdGk)
+![This is an image](https://pin.it/2fB9jfN)
 # I am a:
 student of Systems Engineering and
 junior programmer in training,
