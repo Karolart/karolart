@@ -25,4 +25,4 @@ Here are some of my programming skills and technologies I work with:
   - :fire: Firebase: I am familiar with Firebase for real-time database and backend-as-a-service (BaaS) capabilities.
   - :floppy_disk: MySQL: I have worked with MySQL for relational database management and data retrieval.
 
-Feel free to reach out if you share any of these interests, have any questions, or if you'd like to connect with fellow women in tech!
+Feel free to reach out if you share any of these interests, have any questions, or if you'd like to connect with fellow peer in tech!
