@@ -1,3 +1,40 @@
+<!-- Add the following CSS styles at the top of your README.md file -->
+<style>
+  body {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  
+  .corner-stars {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  .corner-stars::before,
+  .corner-stars::after {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://example.com/star.png');
+    background-size: contain;
+  }
+
+  .corner-stars::before {
+    top: 10px;
+    left: 10px;
+  }
+
+  .corner-stars::after {
+    top: 10px;
+    right: 10px;
+    transform: rotate(180deg);
+  }
+</style>
+
+<!-- Rest of your README content -->
 # Hi there! 👋
 
 ## Welcome to My Profile
@@ -26,3 +63,5 @@ Here are some of my programming skills and technologies I work with:
   - :floppy_disk: MySQL: I have worked with MySQL for relational database management and data retrieval.
 
 Feel free to reach out if you share any of these interests, have any questions, or if you'd like to connect with fellow women in tech!
+
+<div class="corner-stars"></div>
