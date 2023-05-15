@@ -8,7 +8,7 @@ I'm Karol, a woman junior programmer always in training. I'm passionate about im
 
 ## Contact
 
-- LinkedIn: [karolart](www.linkedin.com/in/karolart)
+- LinkedIn: [karolart](https://www.linkedin.com/in/karolart/)
 - Discord: Karola#4030
 
 ## Skills
