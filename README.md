@@ -18,7 +18,7 @@
     position: absolute;
     width: 40px;
     height: 40px;
-    background-image: url('https://example.com/star.png');
+    background-image: url('https://img.freepik.com/premium-vector/space-background-with-stars-vector-illustration_97886-319.jpg');
     background-size: contain;
   }
 
