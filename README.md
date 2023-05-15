@@ -1,52 +1,15 @@
-<!-- Add the following CSS styles at the top of your README.md file -->
-<style>
-  body {
-    background-color: #000000;
-    color: #ffffff;
-  }
-  
-  .corner-stars {
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -1;
-  }
-
-  .corner-stars::before,
-  .corner-stars::after {
-    content: "";
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    background-image: url('https://img.freepik.com/premium-vector/space-background-with-stars-vector-illustration_97886-319.jpg');
-    background-size: contain;
-  }
-
-  .corner-stars::before {
-    top: 10px;
-    left: 10px;
-  }
-
-  .corner-stars::after {
-    top: 10px;
-    right: 10px;
-    transform: rotate(180deg);
-  }
-</style>
-
-<!-- Rest of your README content -->
 # Hi there! 👋
 
 ## Welcome to My Profile
 
 ![Profile Picture](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
 
-I'm Karol, a woman junior programmer always in training. I'm passionate about improving my coding skills and exploring the exciting world of software development. As a woman in tech, I am dedicated to breaking barriers and bringing diverse perspectives to the field.
+I'm {{Karol Vanessa}}, a  junior programmer always in training. I'm passionate about improving my coding skills and exploring the exciting world of software development. As a {{woman}} in tech, I am dedicated to breaking barriers and bringing diverse perspectives to the field.
 
 ## Contact
 
-- LinkedIn: [karolart](www.linkedin.com/in/karolart)
-- Discord: Karola#4030
+- LinkedIn: [{{Your LinkedIn Username}}](www.linkedin.com/in/{{karolart}})
+- Discord: {{Your Discord Handle}}
 
 ## Skills
 
@@ -62,6 +25,5 @@ Here are some of my programming skills and technologies I work with:
   - :fire: Firebase: I am familiar with Firebase for real-time database and backend-as-a-service (BaaS) capabilities.
   - :floppy_disk: MySQL: I have worked with MySQL for relational database management and data retrieval.
 
-Feel free to reach out if you share any of these interests, have any questions, or if you'd like to connect with fellow women in tech!
+Feel free to reach out if you share any of these interests, have any questions, or if you'd like to connect to me in tech!
 
-<div class="corner-stars"></div>
