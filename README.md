@@ -4,7 +4,8 @@
 
 ![Profile Picture](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
 
-I'm Karol, a woman junior programmer always in training. I'm passionate about improving my coding skills and exploring the exciting world of software development. As a woman in tech, I am dedicated to breaking barriers and bringing diverse perspectives to the field.
+I'm **Karol** , a junior programmer always in training.  
+I'm passionate about improving my coding skills and exploring the exciting world of software development. As a woman in tech, I am dedicated to breaking barriers and bringing diverse perspectives to the field.
 
 ## Contact
 
