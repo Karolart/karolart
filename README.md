@@ -1,33 +1,53 @@
-## Skills
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
 
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">Front-End Developer · React Enthusiast · UI-Focused Engineer</h3>
+<h1 align="center">Hi, I'm Karol 👋</h1>
+<h3 align="center">Front-End Developer · React-Focused · UI-Oriented Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;React+%26+SPA+Specialist;Clean+UI+%7C+Scalable+Code;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;React+SPA+Enthusiast;Component-Driven+UI;Clean+Code+%7C+Good+UX&center=true&width=520&height=45">
 </p>
 
 ---
 
 ## ✨ About Me
 
-I'm a **front-end–focused software engineer** passionate about building **clean, interactive, and user-friendly web applications**.
+I am a **front-end–focused software developer** with a strong interest in **React, component-based architecture, and user experience**.
 
-![Profile Picture](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
+My main motivation is building **clear, maintainable interfaces** where logic, structure, and UI work together cleanly.  
+I value **readable code, predictable state, and thoughtful UI decisions** over unnecessary complexity.
 
-I specialize in **React-based SPAs**, component-driven architecture, and responsive UI design. I care deeply about **code readability, structure, and user experience**, and I enjoy turning ideas into polished interfaces.
+I’m continuously improving my skills through **hands-on projects**, especially React-based applications.
 
 ---
 
-## 🚀 Front-End Focus
+## ⚛️ Front-End Core Skills
 
-- ⚛️ **React** — functional components, hooks (`useState`, `useEffect`, `useContext`)
-- 🧩 **Component architecture** — reusable, scalable UI
-- 🎨 **HTML & CSS** — semantic markup, Flexbox, Grid, responsive layouts
-- ⚡ **JavaScript** — events, async logic, API integration
-- 🔐 **Authentication flows** — tokens, protected routes, conditional rendering
-- 📁 **Clean project structure** — organized folders per component
+- **React**
+  - Functional components
+  - Hooks: `useState`, `useEffect`, `useContext`
+  - Controlled forms
+  - Conditional rendering
+
+- **Component Architecture**
+  - Reusable components
+  - Clear separation of concerns
+  - Organized folder structures
+
+- **JavaScript (ES6+)**
+  - Events and state-driven UI
+  - Async logic (`async / await`)
+  - API consumption
+
+- **HTML & CSS**
+  - Semantic HTML
+  - Responsive layouts
+  - Flexbox & Grid
+  - UI consistency
+
+- **Authentication (Front-End level)**
+  - State-based auth handling
+  - Conditional UI (protected views)
+  - Token-based logic (conceptual understanding)
 
 ---
 
@@ -40,7 +60,7 @@ I specialize in **React-based SPAs**, component-driven architecture, and respons
 ![React](https://img.shields.io/badge/React-61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-red)
 
-### Backend & Databases
+### Databases & Backend (working knowledge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
@@ -57,32 +77,49 @@ I specialize in **React-based SPAs**, component-driven architecture, and respons
 ## 🎨 Featured Project
 
 ### 🎭 Indigo Plataforma Artística
-A front-end–driven platform focused on **visual presentation, usability, and editable content**.
 
+A **React-based front-end project** focused on **visual presentation, usability, and editable content**.
+
+**Key aspects:**
 - React SPA architecture
-- Authentication logic
-- Clean UI & responsive design
-- Scalable component structure
+- Component-driven UI
+- State-based logic
+- Clean and responsive design
+- Structured and scalable layout
+
+This project is my main space for **practicing React patterns and UI decisions**.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📱 React Native
-- 🎮 Unity & game development
-- ☁️ Cloud & deployment best practices
+- Advanced React patterns
+- React Native fundamentals
+- Front-end performance and best practices
+- Deployment and cloud concepts
+- Unity (for creative and interactive projects)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karolart&show_icons=true&theme=radical"/>
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
+- 💼 LinkedIn: https://www.linkedin.com/in/karolart/
+- 💬 Discord: Karola#4030
 
-- LinkedIn: [karolart](https://www.linkedin.com/in/karolart/)
-- Discord: Karola#4030
+If you’re interested in **front-end development**, **React**, or building thoughtful user experiences, feel free to connect.
 
-If you're interested in **front-end development**, **React**, or building thoughtful user experiences, feel free to connect or collaborate.
+---
 
-💬 *Clean UI · Clear Code · Constant Learning*
+<p align="center">
+  <i>Clean UI · Clear Code · Constant Learning</i>
+</p>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
