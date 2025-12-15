@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=190&section=header&text=KAROL%20DIAZ&fontSize=48&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,100:00F5FF&height=190&section=header&text=KAROL%20DIAZ&fontSize=48&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+%7C+React;Creative+Technical+Background;90s+Vaporwave+UI;Learning+Through+Building&center=true&width=560&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&lines=Front-End+Developer+%7C+React;UI+Engineering+with+Visual+Sense;90s+Vaporwave+Interfaces;Learning+Through+Building&center=true&width=580&height=45">
 </p>
 
 <p align="center">
@@ -14,10 +14,9 @@
 
 I’m a **front-end–focused software developer** with a strong interest in **React, UI architecture, and visual design**.
 
-I enjoy building **component-based interfaces** that are clear, maintainable, and visually intentional.  
-This GitHub profile works as both a **portfolio and a learning space**, where I document projects that strengthen my front-end engineering skills.
+This GitHub profile serves as a **portfolio and learning space**, where I build interfaces that balance **logic, aesthetics, and user experience**.
 
-My goal is to create interfaces that balance **logic, aesthetics, and user experience**.
+My goal is to create **clean, expressive, and maintainable UI** with a strong visual identity.
 
 ---
 
@@ -48,44 +47,44 @@ My goal is to create interfaces that balance **logic, aesthetics, and user exper
 
 ## 🎨 CREATIVE & TECHNICAL SKILLS (SUPPORTING)
 
-Alongside front-end development, I have **hands-on training and practice** in creative and technical areas that complement UI work:
+Hands-on knowledge and practice in creative and technical areas that support UI development:
 
-- 🎨 Concept art & visual development
-- 🧠 Technical art fundamentals
+- 🎨 Concept art & visual design
 - 🖌️ Digital art & pixel art (2D)
+- 🧠 Technical art fundamentals
 - 🧱 3D modeling & sculpting (Blender, ZBrush)
 - 🎨 Texturing (Substance Painter)
 
-These skills help me approach front-end development with a **strong visual sense**, attention to detail, and understanding of how users perceive interfaces.
+These skills strengthen my **visual decision-making** when building front-end interfaces.
 
 ---
 
 ## 💾 TECH STACK
 
 ### Front-End
-![HTML](https://img.shields.io/badge/HTML5-FF6EC7)
-![CSS](https://img.shields.io/badge/CSS3-6A5ACD)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700)
-![React](https://img.shields.io/badge/React-00FFFF)
-![Angular](https://img.shields.io/badge/Angular-FF1493)
+![HTML](https://img.shields.io/badge/HTML5-FF4FD8?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF8C42?style=for-the-badge)
+![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-FF4FD8?style=for-the-badge)
 
 ### Databases, Tools & Other Skills
-![MySQL](https://img.shields.io/badge/MySQL-00CED1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9370DB)
-![MongoDB](https://img.shields.io/badge/MongoDB-32CD32)
-![Firebase](https://img.shields.io/badge/Firebase-FFA500)
-![AWS](https://img.shields.io/badge/AWS-FF4500)
-![Git](https://img.shields.io/badge/Git-FF69B4)
-![Arduino](https://img.shields.io/badge/Arduino-00979D)
+![MySQL](https://img.shields.io/badge/MySQL-2DE2E6?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-00F5FF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FF8C42?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF4FD8?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-2DE2E6?style=for-the-badge)
 
 ---
 
 ## 🎮 GAME & REAL-TIME PROJECTS (LEARNING)
 
 - 🕹️ Game prototypes using **Unity**
-- 🎬 Cinematic and real-time experiments in **Unreal Engine**
+- 🎬 Cinematic & real-time experiments in **Unreal Engine**
 
-These are **personal learning projects**, used to explore interaction systems, real-time rendering, and performance concepts.
+Personal projects used to explore interaction, rendering, and performance.
 
 ---
 
@@ -97,21 +96,19 @@ A **React single-page application** focused on:
 
 - Component-driven UI
 - Visual presentation
-- Editable content
 - State handling
 - Responsive design
+- Editable content
 
-This project is my **main front-end practice environment**, where I apply React fundamentals and UI design principles.
+This is my **main React practice project**.
 
 ---
 
 ## 🌱 HOW I LEARN
 
-I learn by building, experimenting, and exploring new technologies without fear.
+I learn by **building, experimenting, and exploring**.
 
-I enjoy approaching problems from both a **technical and creative perspective**, and I’m always curious about new tools and workflows.
-
-My professional focus is **front-end engineering**, and I’m actively strengthening those skills through continuous practice.
+I’m not afraid of new tools or unfamiliar technology — curiosity and consistency drive my growth as a front-end developer.
 
 ---
 
@@ -134,4 +131,4 @@ My professional focus is **front-end engineering**, and I’m actively strengthe
   <i>NEON UI · FRONT-END FOCUS · CONSTANT LEARNING</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF4FD8&height=120&section=footer"/>
