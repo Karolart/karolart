@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,100:00F5FF&height=190&section=header&text=KAROL%20DIAZ&fontSize=48&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&lines=Front-End+Developer+%7C+React;UI+Engineering+with+Visual+Sense;90s+Vaporwave+Interfaces;Learning+Through+Building&center=true&width=580&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&lines=Front-End+Developer+%7C+React;UI+Engineering+with+Visual+Sense;Learning+Through+Building&center=true&width=580&height=45">
 </p>
 
 <p align="center">
