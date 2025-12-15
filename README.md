@@ -128,7 +128,7 @@ I’m not afraid of new tools or unfamiliar technology — curiosity and consist
 ---
 
 <p align="center">
-  <i>NEON UI · FRONT-END FOCUS · CONSTANT LEARNING</i>
+  <i>FRONT-END FOCUS · CONSTANT LEARNING</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF4FD8&height=120&section=footer"/>
