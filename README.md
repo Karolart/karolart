@@ -1,17 +1,3 @@
-# Hi there! 👋
-
-## Welcome to My Profile
-
-![Profile Picture](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
-
-I'm **Karol** A programmer always in training.  
-I'm passionate about improving my coding skills and exploring the exciting world of software development. As a woman in tech, I am dedicated to breaking barriers and bringing diverse perspectives to the field.
-
-## Contact
-
-- LinkedIn: [karolart](https://www.linkedin.com/in/karolart/)
-- Discord: Karola#4030
-
 ## Skills
 
 <!-- Header -->
@@ -27,6 +13,8 @@ I'm passionate about improving my coding skills and exploring the exciting world
 ## ✨ About Me
 
 I'm a **front-end–focused software engineer** passionate about building **clean, interactive, and user-friendly web applications**.
+
+![Profile Picture](https://pbs.twimg.com/media/FvV1-p9X0AAOONT?format=png&name=small)
 
 I specialize in **React-based SPAs**, component-driven architecture, and responsive UI design. I care deeply about **code readability, structure, and user experience**, and I enjoy turning ideas into polished interfaces.
 
@@ -87,6 +75,10 @@ A front-end–driven platform focused on **visual presentation, usability, and e
 ---
 
 ## 🤝 Let’s Connect
+
+
+- LinkedIn: [karolart](https://www.linkedin.com/in/karolart/)
+- Discord: Karola#4030
 
 If you're interested in **front-end development**, **React**, or building thoughtful user experiences, feel free to connect or collaborate.
 
