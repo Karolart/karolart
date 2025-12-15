@@ -14,28 +14,83 @@ I'm passionate about improving my coding skills and exploring the exciting world
 
 ## Skills
 
-Here are some of my programming skills and technologies I work with:
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Karol</h1>
+<h3 align="center">Front-End Developer · React Enthusiast · UI-Focused Engineer</h3>
 
-**Programming Skills and Technologies:**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;React+%26+SPA+Specialist;Clean+UI+%7C+Scalable+Code;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
+</p>
 
-🔷 C: I have hands-on experience with low-level programming and implementing algorithms.
-☕ Java: I'm proficient in building object-oriented applications with Java.
-🐍 Python: I love using Python for its versatility in web development, data analysis, and automation.
-🖥️ C#: I'm skilled in developing applications and exploring game development with Unity.
-🌐 HTML, CSS, JavaScript: I enjoy front-end web development, bringing designs to life.
-⚛️ React, Angular: I have experience using these modern frameworks to build dynamic web applications.
-Databases:
-🍃 MongoDB: I have experience with this NoSQL database for flexible and scalable data storage.
-🔥 Firebase: I'm familiar with using Firebase for real-time databases and backend-as-a-service (BaaS) capabilities.
-💾 MySQL: I have worked extensively with MySQL for relational database management and data retrieval.
-🐘 PostgreSQL: I'm skilled in working with this advanced relational database system.
-Cloud and Tools:
-☁️ AWS: I have experience with cloud services for deploying and managing applications.
-📊 Redash, Grafana: I use these tools for data visualization and monitoring.
-🛠️ Postman: I'm adept at API development and testing.
-Emerging Technologies:
-🎮 Unity: I'm currently learning and developing games and simulations.
-🤖 Robotics and Arduino: I'm exploring hardware programming and robotics projects.
+---
 
-Feel free to reach out if you share any of these interests, have any questions, or if you'd like to connect with a fellow tech enthusiast!
+## ✨ About Me
+
+I'm a **front-end–focused software engineer** passionate about building **clean, interactive, and user-friendly web applications**.
+
+I specialize in **React-based SPAs**, component-driven architecture, and responsive UI design. I care deeply about **code readability, structure, and user experience**, and I enjoy turning ideas into polished interfaces.
+
+---
+
+## 🚀 Front-End Focus
+
+- ⚛️ **React** — functional components, hooks (`useState`, `useEffect`, `useContext`)
+- 🧩 **Component architecture** — reusable, scalable UI
+- 🎨 **HTML & CSS** — semantic markup, Flexbox, Grid, responsive layouts
+- ⚡ **JavaScript** — events, async logic, API integration
+- 🔐 **Authentication flows** — tokens, protected routes, conditional rendering
+- 📁 **Clean project structure** — organized folders per component
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-End
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-61DAFB)
+![Angular](https://img.shields.io/badge/Angular-red)
+
+### Backend & Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Firebase](https://img.shields.io/badge/Firebase-orange)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Git](https://img.shields.io/badge/Git-black)
+![Postman](https://img.shields.io/badge/Postman-orange)
+![Grafana](https://img.shields.io/badge/Grafana-orange)
+
+---
+
+## 🎨 Featured Project
+
+### 🎭 Indigo Plataforma Artística
+A front-end–driven platform focused on **visual presentation, usability, and editable content**.
+
+- React SPA architecture
+- Authentication logic
+- Clean UI & responsive design
+- Scalable component structure
+
+---
+
+## 🌱 Currently Learning
+
+- 📱 React Native
+- 🎮 Unity & game development
+- ☁️ Cloud & deployment best practices
+
+---
+
+## 🤝 Let’s Connect
+
+If you're interested in **front-end development**, **React**, or building thoughtful user experiences, feel free to connect or collaborate.
+
+💬 *Clean UI · Clear Code · Constant Learning*
+
+
 
